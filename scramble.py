@@ -85,5 +85,3 @@ win32clipboard.OpenClipboard()
 win32clipboard.EmptyClipboard()
 win32clipboard.SetClipboardText(oldclipboard)
 win32clipboard.CloseClipboard()
-
-input()
